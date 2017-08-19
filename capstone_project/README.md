@@ -1,6 +1,6 @@
 # Welcome to Zillow project!
 
-Software requerimentes:
+## Software requerimentes:
 
 - Python3
 - tensorflow
@@ -12,7 +12,9 @@ Software requerimentes:
 - tqdm
 - xgboost
 
-* To download the datasets you have to go to:
+## Preprocessing the data:
+
+**To download the datasets you have to go to:**
 https://www.kaggle.com/c/zillow-prize-1/data
 
 And make sure to download these files.
@@ -23,8 +25,6 @@ And make sure to download these files.
 
 
 And extract all files into the folder data/
-
-## Preprocessing the data:
 
 Run:
 `export PYTHONPATH="${PYTHONPATH}:/my/path/to/zillow_project/"`
