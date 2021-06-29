@@ -48,6 +48,6 @@ zillow_project/
 	classification_model.py
 
 ~~~~
-Thanks for reading this! :)
+Thanks :)
 
 
